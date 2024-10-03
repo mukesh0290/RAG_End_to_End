@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langchain
+langchain_community
+pinecone-client
+transformers
+torch
+PyMuPDF
+scikit-learn
+pytest
+httpx  # For making requests in tests
